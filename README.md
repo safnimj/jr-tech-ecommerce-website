@@ -72,6 +72,3 @@ This project is an e-commerce website developed for JR Tech, an electronic store
 
 ### License
 This project is licensed under the MIT License.
-```
-
-You can now include this `README.md` in your GitHub repository. It provides a clear guide on how to run the project and the login credentials for both the user and admin panels.
